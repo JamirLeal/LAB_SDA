@@ -1,0 +1,32 @@
+NET "E[0]" LOC = K12;
+NET "E[1]" LOC = P14;
+NET "E[2]" LOC = L12;
+NET "E[3]" LOC = N14;
+NET "E[4]" LOC = P13;
+NET "E[5]" LOC = N12;
+NET "E[6]" LOC = P12;
+NET "E[7]" LOC = P11;
+
+
+NET "A[0]" LOC = F12;
+NET "A[1]" LOC = G12;
+NET "A[2]" LOC = H14;
+NET "A[4]" LOC = J14;
+NET "A[7]" LOC = K13;
+NET "A[6]" LOC = K14;
+NET "A[5]" LOC = J13;
+NET "A[3]" LOC = H13;
+NET "B[0]" LOC = D5;
+NET "B[1]" LOC = C5;
+NET "B[2]" LOC = D6;
+NET "B[3]" LOC = C6;
+NET "B[4]" LOC = E7;
+NET "B[5]" LOC = C7;
+NET "B[6]" LOC = D7;
+NET "B[7]" LOC = C8;
+NET "S" LOC = M13;
+
+# PlanAhead Generated physical constraints 
+
+NET "Cout" LOC = C9;
+NET "Overflow" LOC = D10;
