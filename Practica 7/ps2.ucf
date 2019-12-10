@@ -1,0 +1,41 @@
+Net "clk" LOC = "T9";
+
+net "ps2_clk" LOC = "M16";
+net "ps2_data" Loc = "M15";
+
+net "seg7_control(3)" LOC = "E13";
+net "seg7_control(2)" LOC = "F14";
+net "seg7_control(1)" LOC = "G14";
+net "seg7_control(0)" LOC = "D14";
+
+net "seg7_outputs(6)" LOC = "E14";
+net "seg7_outputs(5)" LOC = "G13";
+net "seg7_outputs(4)" LOC = "N15";
+net "seg7_outputs(3)" LOC = "P15";
+net "seg7_outputs(2)" LOC = "R16";
+net "seg7_outputs(1)" LOC = "F13";
+net "seg7_outputs(0)" LOC = "N16";
+
+net "bcd_DU(0)" loc = "K12";
+net "bcd_DU(1)" loc = "P14";
+net "bcd_DU(2)" loc = "L12";
+net "bcd_DU(3)" loc = "N14";
+net "bcd_DU(4)" loc = "P13";
+net "bcd_DU(5)" loc = "N12";
+net "bcd_DU(6)" loc = "P12";
+net "bcd_DU(7)" loc = "P11";
+
+NET "RS" LOC = D5;
+NET "RW" LOC = C5;
+NET "LCD_output(7)" LOC = D10;
+NET "LCD_output(6)" LOC = C9;
+NET "LCD_output(5)" LOC = D8;
+NET "LCD_output(4)" LOC = C8;
+NET "LCD_output(3)" LOC = D7;
+NET "LCD_output(2)" LOC = C7;
+NET "LCD_output(1)" LOC = E7;
+NET "LCD_output(0)" LOC = C6;
+NET "E" LOC = D6;
+NET "lcd_reset" loc = M13;
+
+
