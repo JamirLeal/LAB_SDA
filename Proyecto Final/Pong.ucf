@@ -1,0 +1,9 @@
+NET "azul_s"    LOC = "R11"  ; 
+NET "clk"       LOC = "T9"  ; 
+NET "verde_s"   LOC = "T12"  ; 
+NET "sin_hor_s" LOC = "R9"  ; 
+NET "ps2_clk"   LOC = "M16";
+NET "ps2_clk" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "datos_kb"  LOC = "M15"  ; 
+NET "rojo_s"    LOC = "R12"  ; 
+NET "sin_ver_s" LOC = "T10"  ; 

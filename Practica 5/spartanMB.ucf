@@ -1,0 +1,32 @@
+NET "clk" LOC = "T9";
+ 
+NET "myInput(7)" LOC = "K13";
+NET "myInput(6)" LOC = "K14";
+NET "myInput(5)" LOC = "J13";
+NET "myInput(4)" LOC = "J14";
+NET "myInput(3)" LOC = "H13";
+NET "myInput(2)" LOC = "H14";
+NET "myInput(1)" LOC = "G12";
+NET "myInput(0)" LOC = "F12";
+
+NET "myOutput(6)"  LOC = "E14";
+NET "myOutput(5)"  LOC = "G13";
+NET "myOutput(4)"  LOC = "N15";
+NET "myOutput(3)"  LOC = "P15";
+NET "myOutput(2)"  LOC = "R16";
+NET "myOutput(1)"  LOC = "F13";
+NET "myOutput(0)"  LOC = "N16";
+
+NET "sal(7)" LOC = "P11";
+NET "sal(6)" LOC = "P12";
+NET "sal(5)" LOC = "N12";
+NET "sal(4)" LOC = "P13";
+NET "sal(3)" LOC = "N14";
+NET "sal(2)" LOC = "L12";
+NET "sal(1)" LOC = "P14";
+NET "sal(0)" LOC = "K12";
+ 
+NET "enable(3)" LOC = "E13";
+NET "enable(2)" LOC = "F14";
+NET "enable(1)" LOC = "G14";
+NET "enable(0)" LOC = "D14";
