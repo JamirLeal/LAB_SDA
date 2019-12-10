@@ -1,0 +1,6 @@
+NET "clk50_in"  LOC = "T9" ;
+NET "rojo"      LOC = "R12";
+NET "verde"     LOC = "T12";
+NET "azul"      LOC = "R11";
+NET "hs_sal"    LOC = "R9" ;
+NET "vs_sal"    LOC = "T10";
